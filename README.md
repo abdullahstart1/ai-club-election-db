@@ -14,7 +14,7 @@ It includes tables, views, stored procedures, users, privileges, and backup/rest
 
 The repository also contains a `Charts` Folder that includes:
 - 'Detailed_Charts.drawio': This file has the charts as drawings.
--'Screenshots': This folder includes charts screenshots (NOT very clear)
+- 'Screenshots': This folder includes charts screenshots (NOT very clear)
 
 These are the charts:
 - **Conceptual Design:** Entity-Relationship diagram (ERD)
